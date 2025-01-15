@@ -8,6 +8,7 @@ Utilized the Franka Desk software to implement the actions on the Franka Emika P
 
 
 <h2>Simulation</h2>
+
 [![Simulation](https://img.youtube.com/vi/phOzr_P2_O4/0.jpg)](https://www.youtube.com/watch?v=phOzr_P2_O4)
 
 
