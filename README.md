@@ -14,7 +14,7 @@ Steps the Franka Robot takes:
 1. Pick up the bottom of the car from remote position and place the car on a pre-made set-up station.
 2. Pick up the cover of the car and places it on top of the bottom of the car.
 3. The robot waits for a human to place the screws in the holes.
-4. Once the human taps the fron tof the robot, it grabs the electric screwdriver.
+4. Once the human taps the front of the robot, it grabs the electric screwdriver.
 5. Then with the screwdriver it grabbed, it tries to screw the screws placed on the car. The moving down motion is programed by applying relative motion and force downwards.
 6. Once the screwing is done, the robot drops the screwdriver at designated "orange" space.
 7. Picks up the built car and places it outside of the set-up station. 
