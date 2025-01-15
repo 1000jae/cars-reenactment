@@ -1,4 +1,4 @@
-# cars-reenactment
+# Cars-Reenactment
 The project is a final roject for CSC376: Fundamentals to Robotics. 
 It is a mini car pit stop inspired by a scene from the film "Cars" where the Franka Emika Panda Robot pick and places parts of the car and screws the parts together.
 Utilized the Franka Desk software to implement the actions on the Franka Emika Panda Robot.
